@@ -1,0 +1,3 @@
+name,sequence,start_position,stop_position,primer_length,capture_length
+RdRp Marker Reverse,ACACTATTAGCATAAGNNNNTGTGGCATCTCCTGAT,15475,15511,16,16
+E-Gene Marker Reverse,GCACACAATCGAANNNNAGTAAGGATGGCTAGTGT,26324,26359,13,18

@@ -1,0 +1,4 @@
+whole genomes only downloaded from https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/virus?SeqType_s=Nucleotide&VirusLineage_ss=SARS-CoV-2,%20taxid:2697049&Completeness_s=complete
+download date: 8-Feb-2021
+number of sequences accessed: 40,838 complete genome sequences
+sequences aligned with ViralMSA, an open-source viral multi-sequence-alignment tool using Minimap2 as aligner
